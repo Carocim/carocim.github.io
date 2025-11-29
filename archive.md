@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: brain dump
+title: Archive
 ---

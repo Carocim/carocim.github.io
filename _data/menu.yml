@@ -1,5 +1,9 @@
 entries:
   - title: <b> take a look at </b>
     entries:
+      - title: about me...>
+        url: about.html
       - title: brain dump...>
         url: archive.html
+      - title: recipes...>
+        url: recipes.html
