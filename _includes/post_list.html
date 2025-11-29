@@ -1,7 +1,7 @@
 {%- if include.category -%}
   {%- assign posts = site.posts | where: "category", include.category -%}  
 {%- else -%}
-  {%- assign posts = site.posts | reject: "category", "recipes" -%}
+  {%- assign posts = site.posts -%}
 {%- endif -%}
 
 {%- if include.limit and posts.size > include.limit -%}
@@ -13,6 +13,7 @@
 {%- if posts.size > 0 -%}
   <ul>
     {%- for post in posts limit: include.limit -%}
+      {% if include.category or post.category != "recipes" %}
         <li>
           <span>{{- post.date | date: site.theme_config.date_format -}}</span>
           {% if site.theme_config.lowercase_titles == true %}
@@ -21,6 +22,7 @@
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           {% endif %}
         </li>
+      {% endif %}
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
       <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
