@@ -1,4 +1,10 @@
 ---
-layout: archive
+layout: default
 title: Recipes
 ---
+
+{%- include back_link.html -%}
+
+<h1>{{ page.title }}</h1>
+
+{%- include post_list.html category='recipes' -%}
