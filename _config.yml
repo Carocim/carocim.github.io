@@ -1,32 +1,33 @@
-title: ♡ alexine # name of the site
-author: Alexine Le Port # name of site's author
-email: jalexine@gmail.com # email of site's author
-url: https://jalexine.github.io # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed) 
-  <p> <span style="color: #FFFFFF; font-size: 1.2em;">上帝保佑你</span> <br> Here's my only fixed address <br> i travel and study systems, architecture, and machine learning infra <br> always interested in working on cool projects : feel free to reach out! <br>  <br> > doing a retreat somewhere in europe <br>  <br> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span>  <a href="https://open.spotify.com/user/auwtkox85ovn7ahyyvuv64gql?si=cded6bf4e4ac4a8f" style="color: #FFFFFF;">
-    <span style="color: #FFFFFF;">  listen to my sick playlists </span> </a> <span style="color: #FFFFFF;"> <span style="font-size: 40px;">️ ☣ </span> </span> <br> <br> interest : bio/ml, computer arch, theology, philosophy, music, arts, poetry, opera, theater, horror, books, hiking, experiencing, learning... <br> <br> pure hate : journalism, ideology, <a href="/assets/badfaith.pdf" target="_blank" style="color: #FFFFFF;">this</a>, advertising, 2-factor authentication, subscription culture and Microsoft   <br> </p>
-
+title: 𓆝 carocim
+author: Carocim
+email: jjmessiah22@gmail.com
+url: https://carocim.github.io
+baseurl: "/"
+description: > 
+  <p>
+  <span style="color: #FFFFFF; font-size: 1.2em;">上帝保佑你</span>
+  <br><br>
+  A digital garden for my thoughts, experiments, and curiosities — tending to my notes on life and hobbies, tracking my current reads, and cultivating a list of things I want to explore.
+  <br><br>
+  <span style="color: #FFFFFF; font-weight: bold;">Links:</span><br>
+  • <a href="https://hardcover.app/@carocim" style="color: #FF991C;">hardcover</a> — my book tracker (or check my <a href="https://www.goodreads.com/paradocim" style="color: #FF991C;">goodreads</a>)<br>
+  • <a href="https://discord.com/users/689466178883944528" style="color: #FF991C;">discord</a> — main contact if you want to reach out<br>
+  • <a href="https://open.spotify.com/user/314qg3qowcbtctv4sf5pcsrqdytm?si=32fe8363b0d74c87" style="color: #FF991C;">playlists</a> — my music over the years<br>
+  • <a href="https://github.com/Carocim" style="color: #FF991C;">github</a> — code and projects
+  </p>
 permalink: /:slug.html
-
-favicon: "icons8-disco-ball-96.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
-
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
-
+favicon: "favicon.png"
+remote_theme: riggraz/no-style-please
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
-
+  appearance: "auto"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: true
 sass:
   style: :compressed
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
 collections:
   reco:
-    output: true
+    output: trues
