@@ -11,7 +11,10 @@ I was maybe around 3. Growing up, I rarely was allowed to play outside with othe
 
 ## <span style="color: white;">My First Console</span>
 
-<img src="/assets/images/psp.gif" alt="My PSP" style="max-width: 60%; height: auto;">
+<div style="text-align: center; margin: 2em 0;">
+<img src="/assets/images/psp.gif" alt="PSP" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">PSP</p>
+</div>
 
 I remember my first time holding my PSP. It was a graduation gift of some sort, or maybe for doing well in elementary school, I couldn’t quite put my mind on it. But it was that. My mother and I had a hard time traversing the controls and it took a while to say the least.
 
@@ -27,43 +30,20 @@ Yeah, you might be wondering: which games? What were your favorites?
 
 These stuck with me, defined me, made me who I am today because I played them as a child:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="text-align: center; flex: 0 0 auto;">
+<div style="text-align: center; margin: 2em 0;">
+  <p style="font-style: italic; color: #888; margin-bottom: 1em;">Favorite Games</p>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    
     <img src="/assets/images/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">Harvest Moon</div>
-  </div>
-
-  <div style="text-align: center; flex: 0 0 auto;">
     <img src="/assets/images/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">Shrek the Third</div>
-  </div>
-
-  <div style="text-align: center; flex: 0 0 auto;">
     <img src="/assets/images/brooktownhigh.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">Brooktown High</div>
-  </div>
-
-  <div style="text-align: center; flex: 0 0 auto;">
     <img src="/assets/images/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">Tekken 7</div>
-  </div>
-
-  <div style="text-align: center; flex: 0 0 auto;">
     <img src="/assets/images/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">Persona 3</div>
-  </div>
-
-  <div style="text-align: center; flex: 0 0 auto;">
     <img src="/assets/images/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">GTA Vice City</div>
-  </div>
+    <img src="/assets/images/ys.jpg" alt="YS 7" style="width: 100px; height: 100px; object-fit: cover;">
 
-  <div style="text-align: center; flex: 0 0 auto;">
-    <img src="/assets/images/ys.jpg" alt="YS 7 Memories of Celceta" style="width: 100px; height: 100px; object-fit: cover;">
-    <div style="font-size: 0.7em;">YS 7</div>
   </div>
-
 </div>
 
 Now to say the least, this isn’t about those games.
@@ -72,7 +52,10 @@ Now to say the least, this isn’t about those games.
 
 ## <span style="color: white;">The Modding Community Today</span> 
 
+<div style="text-align: center; margin: 2em 0;">
 <img src="/assets/images/moddedpsp.jpg" alt="Modded PSP" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">Modded PSP</p>
+</div>
 
 As of today, modding has been widely and easily available. Unlike before. It’s free, you get access to communities of different homebrews. And to shock you, there are still dedicated communities modding different consoles.
 
@@ -110,8 +93,10 @@ As of today, there’s even a WiFi homebrew for the PSP, although I haven’t tr
 
 ## <span style="color: white;">Closing Of Servers</span>
 
-
+<div style="text-align: center; margin: 2em 0;">
 <img src="/assets/images/freedomwars.gif" alt="Freedom Wars" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">Freedom Wars</p>
+</div>
 
 This motivated users and gamers to make their own separate servers for games that were closed down.
 
@@ -139,6 +124,9 @@ I hope if you read my site and come across a device lying around, you go to one 
 
 ## <span style="color: white;">Why Modding Matters And Why Retro Shouldn't Rot</span>
 
+<div style="text-align: center; margin: 2em 0;">
 <img src="/assets/images/retro.jpg" alt="Retro Consoles" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">Retro Consoles</p>
+</div>
 
 Modding teaches you curiosity, problem-solving, and the joy of understanding how things actually work under the surface. It’s a reminder that technology doesn’t have to be disposable — old devices can still have life, personality, and purpose. Retro consoles carry stories, memories, and entire generations of creativity, and letting them die to digital decay would be a waste of everything they shaped. Preserving and modding them isn’t just a hobby; it’s a small way of fighting digital rot and keeping our shared history alive.
