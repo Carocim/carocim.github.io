@@ -26,7 +26,7 @@ And oh, the games. The freaking games.
 
 Given that it was paid, and my mother and I had no means to do that ourselves since we didn’t have a home computer, I took my time and played each and every game I had on that thing. It would take me months to finish all the titles loaded but, looking back… I did finish my games. And enjoyed them.
 
-Yeah, you might be wondering: which games? What were your favorites?
+<span style="color: white;">Yeah, you might be wondering: which games? What were your favorites?</span> 
 
 These stuck with me, defined me, made me who I am today because I played them as a child:
 
