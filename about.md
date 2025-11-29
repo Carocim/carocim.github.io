@@ -9,12 +9,12 @@ I'm Carocim. Professionally, I am a Medical Laboratory Scientist, applying a rig
 
 My journey with GitHub began at the most unexpected time - right in the middle of reviewing for my local boards. I thought, "What's there to lose?" and started creating small tools to help with my daily grind: a pomodoro timer, a task list, and more. Anything digital that I can make my own excites me.
 
-## Create, Not Just Consume
+## <span style="color: white;">Create, Not Just Consume</span>
 
 Like many, my attention is often split between the things I truly love (knowledge, books, video games, anime) and the unavoidable drag of brain rot and doomscrolling from social media.
 
 This website, which I aim to call my personal digital area, is my defense against that passive consumption. It's a structured space designed to collect my thoughts, track my productivity, document my learning, and, hopefully, contribute to the world of knowledge if anyone ever stumbles upon this page.
 
-## Goals Ahead
+## <span style="color: white;">Goals Ahead</span>
 
 My immediate mission is to create more than I consume and to improve my writing. I am cultivating a new habit of reading research papers, creating structured notes, and writing articles. I know I'm not the best writer and feel like I'm behind, but this site is the dedicated space to progress, put my thoughts into words, and grow from there.
