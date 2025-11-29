@@ -37,7 +37,7 @@ These stuck with me, defined me, made me who I am today because I played them as
     
     <img src="/assets/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
     <img src="/assets/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/brooktownhigh.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/Brooktownhighpsp.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
     <img src="/assets/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
     <img src="/assets/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
     <img src="/assets/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
@@ -95,7 +95,7 @@ As of today, there’s even a WiFi homebrew for the PSP, although I haven’t tr
 
 <div style="text-align: center; margin: 2em 0;">
 <img src="/assets/freedomwars.gif" alt="Freedom Wars" style="max-width: 60%; height: auto;">
-<p style="font-style: italic; color: #888; margin-top: 0.5em;">Freedom Wars</p>
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">Freedom Wars gameplay on Vita</p>
 </div>
 
 This motivated users and gamers to make their own separate servers for games that were closed down.
