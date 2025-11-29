@@ -12,7 +12,7 @@ I was maybe around 3. Growing up, I rarely was allowed to play outside with othe
 ## <span style="color: white;">My First Console</span>
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/images/psp.gif" alt="PSP" style="max-width: 60%; height: auto;">
+<img src="/assets/psp.gif" alt="PSP" style="max-width: 60%; height: auto;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">PSP</p>
 </div>
 
@@ -35,13 +35,13 @@ These stuck with me, defined me, made me who I am today because I played them as
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     
-    <img src="/assets/images/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/brooktownhigh.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/images/ys.jpg" alt="YS 7" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/brooktownhigh.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
+    <img src="/assets/ys.jpg" alt="YS 7" style="width: 100px; height: 100px; object-fit: cover;">
 
   </div>
 </div>
@@ -53,7 +53,7 @@ Now to say the least, this isn’t about those games.
 ## <span style="color: white;">The Modding Community Today</span> 
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/images/moddedpsp.jpg" alt="Modded PSP" style="max-width: 60%; height: auto;">
+<img src="/assets/moddedpsp.jpg" alt="Modded PSP" style="max-width: 60%; height: auto;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">Modded PSP</p>
 </div>
 
@@ -94,7 +94,7 @@ As of today, there’s even a WiFi homebrew for the PSP, although I haven’t tr
 ## <span style="color: white;">Closing Of Servers</span>
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/images/freedomwars.gif" alt="Freedom Wars" style="max-width: 60%; height: auto;">
+<img src="/assets/freedomwars.gif" alt="Freedom Wars" style="max-width: 60%; height: auto;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">Freedom Wars</p>
 </div>
 
@@ -125,7 +125,7 @@ I hope if you read my site and come across a device lying around, you go to one 
 ## <span style="color: white;">Why Modding Matters And Why Retro Shouldn't Rot</span>
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/images/retro.jpg" alt="Retro Consoles" style="max-width: 60%; height: auto;">
+<img src="/assets/retro.jpg" alt="Retro Consoles" style="max-width: 60%; height: auto;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">Retro Consoles</p>
 </div>
 
