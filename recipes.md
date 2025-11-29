@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Recipes
+which_category: recipes
 ---
-
-{%- include back_link.html -%}
-
-{%- include post_list.html category='recipes' -%}

@@ -7,14 +7,14 @@ layout: default
   <ul>
     {%- for post in site.posts -%}
       {%- if page.which_category -%}
-        {%- if post.category == page.which_category or post.categories contains page.which_category -%}
+        {%- if post.categories contains page.which_category -%}
           <li>
             <span>{{ post.date | date: site.theme_config.date_format }}</span> » 
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </li>
         {%- endif -%}
       {%- else -%}
-        {%- unless post.category == "recipes" or post.categories contains "recipes" -%}
+        {%- unless post.categories contains "recipes" -%}
           <li>
             <span>{{ post.date | date: site.theme_config.date_format }}</span> » 
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
