@@ -5,15 +5,15 @@ url: https://carocim.github.io
 baseurl: "/"
 description: > 
   <p>
-  <span style="color: #FFFFFF; font-size: 1.2em;">上帝保佑你</span>
+  <span style="color: #FFFFFF; font-size: 1.2em;">カロシム</span>
   <br><br>
   A digital garden for my thoughts, experiments, and curiosities — tending to my notes on life and hobbies, tracking my current reads, and cultivating a list of things I want to explore.
   <br><br>
   <span style="color: #FFFFFF; font-weight: bold;">Links:</span><br>
-  • <a href="https://hardcover.app/@carocim" style="color: #FF991C;">hardcover</a> — my book tracker (or check my <a href="https://www.goodreads.com/paradocim" style="color: #FF991C;">goodreads</a>)<br>
-  • <a href="https://discord.com/users/689466178883944528" style="color: #FF991C;">discord</a> — main contact if you want to reach out<br>
-  • <a href="https://open.spotify.com/user/314qg3qowcbtctv4sf5pcsrqdytm?si=32fe8363b0d74c87" style="color: #FF991C;">playlists</a> — my music over the years<br>
-  • <a href="https://github.com/Carocim" style="color: #FF991C;">github</a> — code and projects
+  • <a href="https://hardcover.app/@carocim" style="color: #FFFFFF;">hardcover</a> — my book tracker (or check my <a href="https://www.goodreads.com/paradocim" style="color: #FFFFFF;">goodreads</a>)<br>
+  • <a href="https://discord.com/users/689466178883944528" style="color: #FFFFFF;">discord</a> — main contact if you want to reach out<br>
+  • <a href="https://open.spotify.com/user/314qg3qowcbtctv4sf5pcsrqdytm?si=32fe8363b0d74c87" style="color: #FFFFFF;">playlists</a> — my music over the years<br>
+  • <a href="https://github.com/Carocim" style="color: #FFFFFF;">github</a> — code and projects
   </p>
 permalink: /:slug.html
 favicon: "favicon.png"
@@ -30,4 +30,4 @@ plugins:
   - jekyll-seo-tag
 collections:
   reco:
-    output: trues
+    output: true
