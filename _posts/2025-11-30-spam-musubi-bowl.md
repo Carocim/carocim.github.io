@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spam Musubi Bowl"
-category: recipes
+categories: recipes
 ---
 
 # Spam Musubi Bowl  
