@@ -3,6 +3,12 @@ layout: post
 title: "Jailbreaking My Kindle: Reigniting a Passion for Reading"
 ---
 
+<style>
+h2 {
+  color: #FFFFFF;
+}
+</style>
+
 <details markdown="1">
 <summary><strong>Table of Contents</strong></summary>
 * TOC
@@ -32,8 +38,8 @@ The original Kindle Amazon UI is still available, but now you truly own your boo
 * **KOreader**: This is now your main reading program. It is also available for phones, allowing you to seamlessly sync your reading progress between devices. It has tons of customizations and requires minimal learning.
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="/assets/koreader.jpg" alt="KOreader home directory" style="max-width: 60%; height: auto;">
-  <p style="font-style: italic; color: #888; margin-top: 0.5em;">KOreader home directory</p>
+<img src="/assets/koreader.jpg" alt="KOreader home directory" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">KOreader home directory</p>
 </div>
 
 * **Open File Types**: No more strict book types. You can use standard EPUBs, PDFs, and others. You can drag and drop or wirelessly connect with Calibre, resulting in less hassle.
@@ -41,8 +47,8 @@ The original Kindle Amazon UI is still available, but now you truly own your boo
 * **Community Apps**: The community makes specialized apps for the Kindle. I personally love KindleFetch, which lets you download your books directly via the Kindle without needing another device. There are even apps for Wordly, Tetris, and Anki for the Kindle, giving you the general idea of the possibilities.
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="/assets/apps.jpg" alt="App icons on default UI" style="max-width: 60%; height: auto;">
-  <p style="font-style: italic; color: #888; margin-top: 0.5em;">App icons on default UI</p>
+<img src="/assets/apps.jpg" alt="App icons on default UI" style="max-width: 60%; height: auto;">
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">App icons on default UI</p>
 </div>
 
 ## Tracking and The Impact
