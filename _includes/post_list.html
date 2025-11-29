@@ -1,5 +1,5 @@
 {%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
+  {%-assign posts = site.posts | where: "category", include.category -%}  
 {%-else-%}
   {%-assign posts = site.posts | reject: "category", "recipes" -%}
 {%-endif-%}
@@ -23,4 +23,3 @@
     {%- endif -%}
   </ul>
 {%- endif -%}
-</file>

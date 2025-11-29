@@ -4,8 +4,6 @@ title: "Spam Musubi Bowl"
 category: recipes
 ---
 
-# Spam Musubi Bowl  
-
 <div style="text-align: center; margin: 2em 0;">
   <img src="/assets/spam.jpeg" alt="Spam Musubi Bowl" style="max-width: 60%; height: auto;">
   <p style="font-style: italic; color: #888; margin-top: 0.5em;">My gf's personal favorite</p>
