@@ -1,4 +1,4 @@
-For my blog/website i used this theme that i modified :
+Forked from jalexine.github.io along with 
 
 <h3 align="center"><a href="https://github.com/riggraz/no-style-please"># no style, please!</a></h3>
 
