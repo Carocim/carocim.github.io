@@ -3,19 +3,13 @@ layout: post
 title: "Jailbreaking My Kindle: Reigniting a Passion for Reading"
 ---
 
-<style>
-h2 {
-  color: #FFFFFF;
-}
-</style>
-
 <details markdown="1">
 <summary><strong>Table of Contents</strong></summary>
 * TOC
 {:toc}
 </details>
 
-## Introduction
+## <span style="color: white;">Introduction</span>
 
 I resolved to read more books this year. For the past years, I have set myself back, reading only one or two books (sometimes none), and spent my time on things that contributed little to my knowledge. I looked back and realized I had an old Kindle lying around, waiting to be used. However, with a monopoly like Amazon, it is hard to truly own your books.
 
@@ -23,7 +17,7 @@ And so, I jailbroke my Kindle.
 
 The spark came from a [random YouTube video](https://www.youtube.com/watch?v=Qtk7ERwlIAk) that stumbled onto my feed. It looked intimidating at first; I had not jailbroken a device since an old iPhone 4s over a decade ago. But that is exactly where I found the excitement. It is like my old Kindle Basic Gen 10 has been fully resurfaced and brought back to life.
 
-## Kindle Modding: Where to Start
+## <span style="color: white;">Kindle Modding: Where to Start</span>
 
 If you find yourself wanting to jailbreak your own device, it is important to know that YouTube videos become outdated quickly. To keep up with the latest updates and safest procedures, always refer to actual documentation sites.
 
@@ -31,7 +25,7 @@ The official community resource is [https://kindlemodding.org/](https://kindlemo
 
 It takes no more than 15 minutes to jailbreak your Kindle, and every instruction and file you need is provided on the site. If you need general help, they also have an active Discord community ready to assist.
 
-## What is in it? The Benefits of Ownership
+## <span style="color: white;">What is in it? The Benefits of Ownership</span>
 
 The original Kindle Amazon UI is still available, but now you truly own your books and can sideload a variety of "apps" onto the device.
 
@@ -51,7 +45,7 @@ The original Kindle Amazon UI is still available, but now you truly own your boo
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">App icons on default UI</p>
 </div>
 
-## Tracking and The Impact
+## <span style="color: white;">Tracking and The Impact</span>
 
 I use [Hardcover](https://hardcover.app) to integrate my reading progress. I find this better than Goodreads personally, though it still has room for improvement. Nonetheless, it keeps track of your books and helps your friends see what you are currently reading.
 
