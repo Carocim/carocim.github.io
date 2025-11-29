@@ -3,12 +3,6 @@ layout: post
 title: "Retro Things & Modding Them"
 ---
 
-<details markdown="1">
-<summary><strong>Table of Contents</strong></summary>
-* TOC
-{:toc}
-</details>
-
 In retrospect, a lot of us today do game. As in, a lot. And while people my age have their own story about how they started, I’ll tell you mine.
 
 I was maybe around 3. Growing up, I rarely was allowed to play outside with other kids and get physical. I often stayed indoors and would watch my older cousin play on his computer. He also taught me how, sometimes played with me, let me touch his PC, his iPod. I never actually told him but he changed the trajectory of my life forever and had an effect on me. So to say the least, thanks for that.
@@ -17,7 +11,7 @@ I was maybe around 3. Growing up, I rarely was allowed to play outside with othe
 
 ## <span style="color: white;">My First Console</span>
 
-<img src="/assets/images/psp.gif" alt="My PSP" width="400px">
+<img src="/assets/images/psp.gif" alt="My PSP" style="max-width: 60%; height: auto;">
 
 I remember my first time holding my PSP. It was a graduation gift of some sort, or maybe for doing well in elementary school, I couldn’t quite put my mind on it. But it was that. My mother and I had a hard time traversing the controls and it took a while to say the least.
 
@@ -78,7 +72,7 @@ Now to say the least, this isn’t about those games.
 
 ## <span style="color: white;">The Modding Community Today</span> 
 
-<img src="/assets/images/moddedpsp.jpg" alt="Modded PSP" width="400px">
+<img src="/assets/images/moddedpsp.jpg" alt="Modded PSP" style="max-width: 60%; height: auto;">
 
 As of today, modding has been widely and easily available. Unlike before. It’s free, you get access to communities of different homebrews. And to shock you, there are still dedicated communities modding different consoles.
 
@@ -102,7 +96,7 @@ I was lucky to get my hands on one, and oh boy — **the customization**. The en
 
 ## <span style="color: white;">Gaming Experience</span>
 
-If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita — including **Vice City** — at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita.
+If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita — including **Vice City** — at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita. I remember making a video about it, it's linked below.
 
 [![My PSP/Vita gameplay](https://img.youtube.com/vi/xIDP6UuF460/hqdefault.jpg)](https://www.youtube.com/watch?v=xIDP6UuF460)
 
@@ -116,17 +110,18 @@ As of today, there’s even a WiFi homebrew for the PSP, although I haven’t tr
 
 ## <span style="color: white;">Closing Of Servers</span>
 
-<img src="/assets/images/freedomwars.gif" alt="Freedom Wars" width="400px">
+
+<img src="/assets/images/freedomwars.gif" alt="Freedom Wars" style="max-width: 60%; height: auto;">
 
 This motivated users and gamers to make their own separate servers for games that were closed down.
 
 For **Freedom Wars**, there was XLink Kai (although I don’t know the current updates anymore).
 
-But for the **3DS**, there is **Pretendo**, basically a custom Nintendo server that lets you add people until today. *Mario Kart 7* still has a lot of players and can cross-play with people from Wii (maybe GameCube?).
+But for the **3DS**, there is **Pretendo**, basically a custom Nintendo server that lets you add people until today. *Mario Kart 7* still has a lot of players and can cross-play with people with other retro consoles like Wii.
 
 ---
 
-## ## <span style="color: white;">My Point</span>
+## <span style="color: white;">My Point</span>
 
 > “Old consoles don’t die. They just wait for someone to remember them.”  
 
@@ -136,14 +131,14 @@ I love how modding is accessible to people nowadays, and honestly I don’t see 
 
 Last time, I was using my 3DS to stream Steam Big Picture and use it as a controller — and it worked. Worked hella good.
 
-I like the idea of longevity and using things for as long as possible. Although I may be a hypocrite if I say I’m an overconsumer, I have multiple things of a single type. But we should preserve old media for the years to come.
+I like the idea of longevity and using things for as long as possible. Although I may be a hypocrite if I say I’m an overconsumer since I have multiple things of a single type, but we should preserve old media for the years to come.
 
 I hope if you read my site and come across a device lying around, you go to one of these communities, learn to mod yours, and make do with what the past had.
 
 ---
 
-## ## <span style="color: white;">Why Modding Matters And Why Retro Shouldn't Rot</span>
+## <span style="color: white;">Why Modding Matters And Why Retro Shouldn't Rot</span>
 
-<img src="/assets/images/retro.jpg" alt="Retro Consoles" width="400px">
+<img src="/assets/images/retro.jpg" alt="Retro Consoles" style="max-width: 60%; height: auto;">
 
 Modding teaches you curiosity, problem-solving, and the joy of understanding how things actually work under the surface. It’s a reminder that technology doesn’t have to be disposable — old devices can still have life, personality, and purpose. Retro consoles carry stories, memories, and entire generations of creativity, and letting them die to digital decay would be a waste of everything they shaped. Preserving and modding them isn’t just a hobby; it’s a small way of fighting digital rot and keeping our shared history alive.
