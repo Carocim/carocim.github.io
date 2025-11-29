@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: recipes
+title: Recipes
 which_category: recipes
 ---
