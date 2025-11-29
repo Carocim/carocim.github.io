@@ -31,15 +31,22 @@ The original Kindle Amazon UI is still available, but now you truly own your boo
 
 * **KOreader**: This is now your main reading program. It is also available for phones, allowing you to seamlessly sync your reading progress between devices. It has tons of customizations and requires minimal learning.
 
-![KOreader](assets/koreader.jpg)
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/assets/koreader.jpg" alt="KOreader home directory" style="max-width: 60%; height: auto;">
+  <p style="font-style: italic; color: #888; margin-top: 0.5em;">KOreader home directory</p>
+</div>
 
 * **Open File Types**: No more strict book types. You can use standard EPUBs, PDFs, and others. You can drag and drop or wirelessly connect with Calibre, resulting in less hassle.
 
 * **Community Apps**: The community makes specialized apps for the Kindle. I personally love KindleFetch, which lets you download your books directly via the Kindle without needing another device. There are even apps for Wordly, Tetris, and Anki for the Kindle, giving you the general idea of the possibilities.
 
-![communityapps](assets.jpg)
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/assets/apps.jpg" alt="App icons on default UI" style="max-width: 60%; height: auto;">
+  <p style="font-style: italic; color: #888; margin-top: 0.5em;">App icons on default UI</p>
+</div>
+
 ## Tracking and The Impact
 
-I use [Hardcover](hardcover.app) to integrate my reading progress. I find this better than Goodreads personally, though it still has room for improvement. Nonetheless, it keeps track of your books and helps your friends see what you are currently reading.
+I use [Hardcover](https://hardcover.app) to integrate my reading progress. I find this better than Goodreads personally, though it still has room for improvement. Nonetheless, it keeps track of your books and helps your friends see what you are currently reading.
 
 The jailbreaking process has made the Kindle feel new and has ignited my passion for reading again. I have read almost 30 books before this year ends, and I am not stopping. The device itself is comfortable to hold in one of my hands. I have been using it daily, often at night, leveraging the warm backlight and dark mode to sneak in a few chapters before sleep. I have got more books on my device now than I will be able to read for many, many months.
