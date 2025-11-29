@@ -114,11 +114,11 @@ We should **collectively archive media**. Like all old things, and thanks to the
 
 I love how modding is accessible to people nowadays, and honestly I don’t see a point in buying new consoles if you have one of these retro devices lying around. They offer so many possibilities.
 
-Last time, I was using my 3DS to stream Steam Big Picture and use it as a controller — and it worked. Worked hella good.
+Last time, I was using my 3DS to stream Steam Big Picture and use it as a controller and it worked. Worked hella good.
 
 I like the idea of longevity and using things for as long as possible. Although I may be a hypocrite if I say I’m an overconsumer since I have multiple things of a single type, but we should preserve old media for the years to come.
 
-I hope if you read my site and come across a device lying around, you go to one of these communities, learn to mod yours, and make do with what the past had.
+I hope if you read my site and come across a device lying around, you go to one of these communities, learn to mod yours, and make do with what the past had. I'll update this soon with my own guide and which homebrew apps I prefer to have installed.
 
 ---
 
@@ -126,7 +126,7 @@ I hope if you read my site and come across a device lying around, you go to one 
 
 <div style="text-align: center; margin: 2em 0;">
 <img src="/assets/retro.jpg" alt="Retro Consoles" style="max-width: 60%; height: auto;">
-<p style="font-style: italic; color: #888; margin-top: 0.5em;">Retro Consoles</p>
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">PS Vita, New 3ds, PSP 3000</p>
 </div>
 
 Modding teaches you curiosity, problem-solving, and the joy of understanding how things actually work under the surface. It’s a reminder that technology doesn’t have to be disposable — old devices can still have life, personality, and purpose. Retro consoles carry stories, memories, and entire generations of creativity, and letting them die to digital decay would be a waste of everything they shaped. Preserving and modding them isn’t just a hobby; it’s a small way of fighting digital rot and keeping our shared history alive.
