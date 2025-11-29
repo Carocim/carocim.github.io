@@ -1,28 +1,9 @@
 ---
 layout: default
 ---
-{%- include back_link.html -%}
+
+{%-include back_link.html-%}
+
 <h1>{{ page.title }}</h1>
-{%- if site.posts.size > 0 -%}
-  <ul>
-    {%- for post in site.posts -%}
-      {%- if page.which_category -%}
-        {%- if post.categories contains page.which_category -%}
-          <li>
-            <span>{{ post.date | date: site.theme_config.date_format }}</span> » 
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </li>
-        {%- endif -%}
-      {%- else -%}
-        {%- unless post.categories contains "recipes" -%}
-          <li>
-            <span>{{ post.date | date: site.theme_config.date_format }}</span> » 
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </li>
-        {%- endunless -%}
-      {%- endif -%}
-    {%- endfor -%}
-  </ul>
-{%- else -%}
-  <p>No posts yet.</p>
-{%- endif -%}
+
+{%-include post_list.html category=page.which_category-%}
