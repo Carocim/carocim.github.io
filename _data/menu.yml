@@ -5,10 +5,5 @@ entries:
         url: about.html
       - title: brain dump...>
         url: archive.html
-      - title: recipes
-        post_list:
-          category: recipes
-          limit: 3
-          show_more: true
-          show_more_text: see all recipes...
-          show_more_url: recipes-archive.html
+      - title: recipes...>
+        url: recipes-archive.html
