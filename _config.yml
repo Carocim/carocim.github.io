@@ -31,3 +31,4 @@ plugins:
 collections:
   reco:
     output: true
+    future: true
