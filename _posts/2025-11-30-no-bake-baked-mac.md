@@ -12,28 +12,27 @@ date: 2025-11-30 00:00:01 +0800
 
 <style>
 .softbox {
-    background-color: #2a2a2a;
-    padding: 25px 30px;
-    border-radius: 12px;
-    border-collapse: separate;
-    border-spacing: 0;
-    font-size: 18px;
-    max-width: 500px;
-    font-family: 'Noto Sans Mono', monospace;
+background-color: #2a2a2a;
+padding: 25px 30px;
+border-radius: 12px;
+border-collapse: collapse;
+font-size: 18px;
+max-width: 500px;
+font-family: 'Noto Sans Mono', monospace;
 }
 .softbox td {
-    padding: 10px 0;
-    color: #ffffff;
+padding: 10px 0;
+color: #ffffff;
+border: none;
 }
 .softbox td:first-child {
-    padding-right: 50px;
-    font-weight: normal;
+padding-right: 50px;
+font-weight: normal;
 }
 .softbox td:last-child {
-    color: #ff9933;
+color: #ff9933;
 }
 </style>
-
 <table class="softbox">
 <tbody>
 <tr>
@@ -68,7 +67,7 @@ date: 2025-11-30 00:00:01 +0800
 - 250ml all purpose cream
 - 1 tbsp of liquid seasoning/soy sauce
 - Salt & pepper to taste
-- Optional: Parsley
+- Optional: Dried parsley
 
 ## <span style="color: white;">Steps</span>
 - Spaghetti sauce
@@ -88,7 +87,7 @@ Transfer pasta into a large bowl or pan.
 
 Pour and spread the white sauce over the top (or mix it in).
 
-Top with parsley for color and presentation.
+Top with dried parsley for color and presentation.
 
 Notes:
 - Liquid seasoning/soy sauce is totally optional if you just want a thick, cheesy, creamy consistency. I prefer a bit of umami and it balances out the cheesiness of the white sauce.
