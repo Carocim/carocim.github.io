@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No-Bake 'Baked' Mac"
+category: recipes
 date: 2025-11-30 00:00:01 +0800
 ---
 
