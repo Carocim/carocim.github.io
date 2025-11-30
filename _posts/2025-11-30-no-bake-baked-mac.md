@@ -7,7 +7,7 @@ date: 2025-11-30 00:00:01 +0800
 
 <div style="text-align: center; margin: 2em 0;">
 <img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: 60%; height: auto;">
-<p style="font-style: italic; color: #888; margin-top: 0.5em;">This is a Filipino style spaghetti so manage your expectations if you did not grow up eating in a Filipino household. Sweet spaghetti maybe abhorent to Italians but food evolves to culture and this is ours.</p>
+<p style="font-style: italic; color: #888; margin-top: 0.5em;">This is a Filipino style spaghetti so manage your expectations if you did not grow up eating in a Filipino household. Sweet spaghetti is maybe abhorent to Italians but food evolves to culture and this is ours.</p>
 </div>
 
 <style>
@@ -15,13 +15,13 @@ date: 2025-11-30 00:00:01 +0800
   background: #333333;
   border-radius: 8px;
   margin: 1em 0;
-  padding: 1.5em 2em;
+  padding: 1em 1.5em;
   width: fit-content;
   font-family: 'Noto Sans Mono', monospace;
   font-size: 16px;
 }
 .softbox table {
-  border-spacing: 3em 0.2em;
+  border-spacing: 2em 0.1em;
   border-collapse: separate;
   border: none;
 }
@@ -91,8 +91,7 @@ date: 2025-11-30 00:00:01 +0800
 3. Season with salt and pepper. Add liquid seasoning/soy sauce then stir.
 
 ## <span style="color: white;">Serving</span>
-- Transfer pasta into a large bowl or pan.
-- Pour and spread the white sauce over the top (or mix it in).
+- Transfer pasta into a large bowl or pan. Pour and spread the white sauce over the top (or mix it in).
 - Top with dried parsley for color and presentation.
 
 ## <span style="color: white;">Notes</span>
