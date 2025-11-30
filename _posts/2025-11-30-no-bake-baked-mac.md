@@ -6,7 +6,7 @@ date: 2025-11-30 00:00:01 +0800
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: 60%; height: 60%;">
+<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: auto; height: 60%;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">This is a Filipino style spaghetti so manage your expectations if you did not grow up eating in a Filipino household. Sweet spaghetti maybe abhorent to Italians but food evolves to culture and this is ours.</p>
 </div>
 
@@ -15,13 +15,13 @@ date: 2025-11-30 00:00:01 +0800
   background: var(--softbox-color);
   border-radius: 8px;
   margin: 1em;
-  padding: 3em 4em;
+  padding: 2em;
   width: fit-content;
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 24px;
+  font-size: 18px;
 }
 .softbox table {
-  border-spacing: 5em 1em;
+  border-spacing: 2em 0.3em;
   border-collapse: separate;
 }
 .softbox td {
@@ -90,11 +90,9 @@ date: 2025-11-30 00:00:01 +0800
 3. Season with salt and pepper. Add liquid seasoning/soy sauce then stir.
 
 ## <span style="color: white;">Serving</span>
-Transfer pasta into a large bowl or pan.
+- Transfer pasta into a large bowl or pan.
+- Pour and spread the white sauce over the top (or mix it in).
+- Top with dried parsley for color and presentation.
 
-Pour and spread the white sauce over the top (or mix it in).
-
-Top with dried parsley for color and presentation.
-
-Notes:
+## <span style="color: white;">Notes</span>
 - Liquid seasoning/soy sauce is totally optional if you just want a thick, cheesy, creamy consistency. I prefer a bit of umami and it balances out the cheesiness of the white sauce.
