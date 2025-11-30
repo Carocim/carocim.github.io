@@ -14,15 +14,16 @@ date: 2025-11-30 00:00:01 +0800
 .softbox {
   background: #333333;
   border-radius: 8px;
-  margin: 1em;
-  padding: 2em;
+  margin: 1em 0;
+  padding: 1.5em 2em;
   width: fit-content;
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 18px;
+  font-size: 16px;
 }
 .softbox table {
-  border-spacing: 2em 0.3em;
+  border-spacing: 3em 0.2em;
   border-collapse: separate;
+  border: none;
 }
 .softbox td {
   color: #ffffff;
@@ -30,7 +31,7 @@ date: 2025-11-30 00:00:01 +0800
   vertical-align: top;
 }
 .softbox td:first-child {
-  font-weight: bold;
+  font-weight: normal;
   white-space: nowrap;
 }
 .softbox td:last-child {
