@@ -6,34 +6,40 @@ date: 2025-11-30 00:00:01 +0800
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: 60%; height: auto;">
+<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: 60%; height: 60%;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">This is a Filipino style spaghetti so manage your expectations if you did not grow up eating in a Filipino household. Sweet spaghetti maybe abhorent to Italians but food evolves to culture and this is ours.</p>
 </div>
 
 <style>
 .softbox {
-background-color: #2a2a2a;
-padding: 25px 30px;
-border-radius: 12px;
-border-collapse: collapse;
-font-size: 18px;
-max-width: 500px;
-font-family: 'Noto Sans Mono', monospace;
+  background: var(--softbox-color);
+  border-radius: 8px;
+  margin: 1em;
+  padding: 3em 4em;
+  width: fit-content;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 24px;
+}
+.softbox table {
+  border-spacing: 5em 1em;
+  border-collapse: separate;
 }
 .softbox td {
-padding: 10px 0;
-color: #ffffff;
-border: none;
+  color: var(--foreground-color);
+  border: none;
+  vertical-align: top;
 }
 .softbox td:first-child {
-padding-right: 50px;
-font-weight: normal;
+  font-weight: bold;
+  white-space: nowrap;
 }
 .softbox td:last-child {
-color: #ff9933;
+  color: #ff9933;
 }
 </style>
-<table class="softbox">
+
+<div class="softbox">
+<table>
 <tbody>
 <tr>
 <td>Serves:</td>
@@ -49,6 +55,7 @@ color: #ff9933;
 </tr>
 </tbody>
 </table>
+</div>
 
 ## <span style="color: white;">Ingredients</span>
 - 1/4 kg ground pork/beef (or more)
