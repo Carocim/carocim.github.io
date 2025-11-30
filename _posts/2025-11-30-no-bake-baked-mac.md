@@ -6,13 +6,13 @@ date: 2025-11-30 00:00:01 +0800
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: auto; height: 60%;">
+<img src="/assets/bakedmac.jpg" alt="Baked Mac" style="max-width: 60%; height: auto;">
 <p style="font-style: italic; color: #888; margin-top: 0.5em;">This is a Filipino style spaghetti so manage your expectations if you did not grow up eating in a Filipino household. Sweet spaghetti maybe abhorent to Italians but food evolves to culture and this is ours.</p>
 </div>
 
 <style>
 .softbox {
-  background: var(--softbox-color);
+  background: #333333;
   border-radius: 8px;
   margin: 1em;
   padding: 2em;
@@ -25,7 +25,7 @@ date: 2025-11-30 00:00:01 +0800
   border-collapse: separate;
 }
 .softbox td {
-  color: var(--foreground-color);
+  color: #ffffff;
   border: none;
   vertical-align: top;
 }
