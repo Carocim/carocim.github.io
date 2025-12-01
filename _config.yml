@@ -10,10 +10,10 @@ description: >
   a digital garden for my thoughts, experiments, and curiosities 
   <br><br>
   <span style="font-weight: bold;">links:</span><br>
-  • <a href="https://hardcover.app/@carocim" style="color: #FFFFFF;">my current book tracker</a> <a href="https://www.goodreads.com/paradocim" style="color: #FFFFFF;">or check my goodreads</a>)<br>
-  • <a href="https://discord.com/users/689466178883944528" style="color: #FFFFFF;">main contact if you want to reach out</a><br>
-  • <a href="https://open.spotify.com/user/314qg3qowcbtctv4sf5pcsrqdytm?si=32fe8363b0d74c87" style="color: #FFFFFF;">my playlists over the years</a><br>
-  • <a href="https://github.com/Carocim" style="color: #FFFFFF;">code and projects</a><br>
+  • <a href="https://hardcover.app/@carocim" style="color: #FFFFFF;">my current book tracker</a> or check <a href="https://www.goodreads.com/paradocim" style="color: #FFFFFF;">goodreads</a><br>
+  • <a href="https://discord.com/users/689466178883944528" style="color: #FFFFFF;">main contact</a><br> if you want to reach out
+  • <a href="https://open.spotify.com/user/314qg3qowcbtctv4sf5pcsrqdytm?si=32fe8363b0d74c87" style="color: #FFFFFF;">playlists</a> over the years<br>
+  • <a href="https://github.com/Carocim" style="color: #FFFFFF;">projects</a><br>
   </p>
 permalink: /:slug.html
 favicon: "favicon.png"
