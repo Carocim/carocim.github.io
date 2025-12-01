@@ -6,5 +6,4 @@ entries:
       - title: brain dump...>
         url: archive.html
       - title: recipes...>
-        category: recipes
         url: recipes-archive.html

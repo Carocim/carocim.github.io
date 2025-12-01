@@ -48,7 +48,7 @@ date: 2025-11-30 00:00:01 +0800
 </tr>
 <tr>
 <td>Time:</td>
-<td>1 hour</td>
+<td>~60 mins</td>
 </tr>
 <tr>
 <td>Tags:</td>
