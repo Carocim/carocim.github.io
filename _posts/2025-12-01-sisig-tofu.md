@@ -6,7 +6,7 @@ date: 2025-12-01 00:00:01 +0800
 ---
 
 <div style="text-align: center; margin: 2em 0;">
-  <img src="/assets/spam.jpeg" alt="Spam Musubi Bowl" style="max-width: 60%; height: auto;">
+  <img src="/assets/sisigtofu.jpg" alt="Sisig Tofu" style="max-width: 60%; height: auto;">
   <p style="font-style: italic; color: #888; margin-top: 0.5em;">My gf's personal favorite, but with more mayo</p>
 </div>
 
@@ -82,4 +82,4 @@ date: 2025-12-01 00:00:01 +0800
 
 ## Notes
 - Add calamansi for brightness or a pinch of sugar for balance.  
-- Adjust the creaminess by adding more or less mayonnaise. I prefer to use Japanese Kewpie mayo since it's richer in texture as well as the taste.
+- Adjust the creaminess by adding more or less mayonnaise. I prefer to use Japanese Kewpie mayo since it's richer in texture as well as taste.

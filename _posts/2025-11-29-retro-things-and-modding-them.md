@@ -48,7 +48,7 @@ These stuck with me, defined me, made me who I am today because I played them as
     </a>
 
     <a href="https://en.wikipedia.org/wiki/Tekken_6" target="_blank">
-      <img src="/assets/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
+      <img src="/assets/tekken.jpg" alt="Tekken 6" style="width: 100px; height: 100px; object-fit: cover;">
     </a>
 
     <a href="https://en.wikipedia.org/wiki/Persona_3" target="_blank">
@@ -101,7 +101,17 @@ I was lucky to get my hands on one. It was shocking, **the customization**. The 
 
 If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita including **San Andreas**, at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita. I remember making a video about it, it's linked below.
 
-[![My PSP/Vita gameplay](https://img.youtube.com/vi/xIDP6UuF460/hqdefault.jpg)](https://www.youtube.com/watch?v=xIDP6UuF460)
+<div style="text-align: center; margin: 2em 0;">
+  <a href="https://www.youtube.com/watch?v=xIDP6UuF460" target="_blank">
+    <img src="https://img.youtube.com/vi/xIDP6UuF460/hqdefault.jpg" 
+         alt="My PSP/Vita gameplay" 
+         style="max-width: 60%; height: auto;">
+  </a>
+
+  <p style="font-style: italic; color: #888; margin-top: 0.5em;">
+    GTA Definitive Edition? No, it's the PS Vita, but better
+  </p>
+</div>
 
 And so this ignited my passion, and throughout the years I’ve modded a lot of PSPs, Vitas, and DS units.
 

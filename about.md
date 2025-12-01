@@ -7,7 +7,9 @@ I honestly hate making "About Mes." Like all others, I'm still exploring myself 
 
 I'm Carocim. Professionally, I am a Medical Laboratory Scientist, applying a rigorous, analytical mind to the field of health. My passion, however, lies in learning to code, experimenting with tech, and building tools that I personally use.
 
-My journey with GitHub began at the most unexpected time - right in the middle of reviewing for my local boards. I thought, "What's there to lose?" and started creating small tools to help with my daily grind: a pomodoro timer, a task list, and more. Anything digital that I can make my own excites me.
+My journey with GitHub began at the most unexpected time, right in the middle of reviewing for my local boards. I thought, 
+> "What's there to lose?" 
+and started creating small tools to help with my daily grind: a *pomodoro timer*, *a task list*, even updating a port to use *3ds as a webcam on mac*, and more. Anything digital that I can make my own excites me.
 
 ## <span style="color: white;">Create, Not Just Consume</span>
 
