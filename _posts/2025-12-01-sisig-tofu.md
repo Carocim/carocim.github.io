@@ -85,3 +85,4 @@ date: 2025-12-01 00:00:01 +0800
 ## Notes
 - Add calamansi for brightness or a pinch of sugar for balance.  
 - Adjust the creaminess by adding more or less mayonnaise. I prefer to use Japanese Kewpie mayo since it's richer in texture as well as taste.
+- Drizzle with fried garlic for extra crunch and taste.

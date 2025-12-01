@@ -48,7 +48,7 @@ These stuck with me, defined me, made me who I am today because I played them as
     </a>
 
     <a href="https://en.wikipedia.org/wiki/Tekken_6" target="_blank">
-      <img src="/assets/tekken.jpg" alt="Tekken 6" style="width: 100px; height: 100px; object-fit: cover;">
+      <img src="/assets/tekken6.jpg" alt="Tekken 6" style="width: 100px; height: 100px; object-fit: cover;">
     </a>
 
     <a href="https://en.wikipedia.org/wiki/Persona_3" target="_blank">
