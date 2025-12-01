@@ -14,15 +14,15 @@ date: 2025-11-30 00:00:01 +0800
   <table>
     <tr>
       <td>Serves:</td>
-      <td>~3</td>
+      <td>~5</td>
     </tr>
     <tr>
       <td>Time:</td>
-      <td>20 mins</td>
+      <td>~60 mins</td>
     </tr>
     <tr>
       <td>Tags:</td>
-      <td>#filipino #healthy</td>
+      <td>#filipino #pasta</td>
     </tr>
   </table>
 </div>
@@ -59,6 +59,7 @@ date: 2025-11-30 00:00:01 +0800
   color: #ff9933;
 }
 </style>
+</style>
 
 <div class="softbox">
 <table>
@@ -69,7 +70,7 @@ date: 2025-11-30 00:00:01 +0800
 </tr>
 <tr>
 <td>Time:</td>
-<td>~60 mins</td>
+<td>~60</td>
 </tr>
 <tr>
 <td>Tags:</td>
