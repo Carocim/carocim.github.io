@@ -102,15 +102,17 @@ I was lucky to get my hands on one. It was shocking, **the customization**. The 
 If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita including **San Andreas**, at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita. I remember making a video about it, it's linked below.
 
 <div style="text-align: center; margin: 2em 0;">
-  <a href="https://www.youtube.com/watch?v=xIDP6UuF460" target="_blank">
+
+  <a href="https://www.youtube.com/watch?v=xIDP6UuF460" target="_blank" style="display: block;">
     <img src="https://img.youtube.com/vi/xIDP6UuF460/hqdefault.jpg" 
          alt="My PSP/Vita gameplay" 
-         style="max-width: 60%; height: auto;">
+         style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
   </a>
 
-  <p style="font-style: italic; color: #888; margin-top: 0.5em;">
+  <p style="font-style: italic; color: #888; margin: 0; padding-top: 0.2em;">
     GTA Definitive Edition? No, it's the PS Vita, but better
   </p>
+
 </div>
 
 And so this ignited my passion, and throughout the years I’ve modded a lot of PSPs, Vitas, and DS units.

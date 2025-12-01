@@ -9,6 +9,7 @@ I'm Carocim. Professionally, I am a Medical Laboratory Scientist, applying a rig
 
 My journey with GitHub began at the most unexpected time, right in the middle of reviewing for my local boards. I thought, 
 > "What's there to lose?" 
+
 and started creating small tools to help with my daily grind: a *pomodoro timer*, *a task list*, even updating a port to use *3ds as a webcam on mac*, and more. Anything digital that I can make my own excites me.
 
 ## <span style="color: white;">Create, Not Just Consume</span>
