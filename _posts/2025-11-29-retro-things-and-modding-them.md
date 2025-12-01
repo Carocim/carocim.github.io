@@ -18,7 +18,7 @@ I was maybe around 3. Growing up, I rarely was allowed to play outside with othe
 
 I remember my first time holding my PSP. It was a graduation gift of some sort, or maybe for doing well in elementary school, I couldn’t quite put my mind on it. But it was that. My mother and I had a hard time traversing the controls and it took a while to say the least.
 
-The UMD it came with — rather the game it had — was **Lemmings**. I couldn’t remember how long my mom and I played that for. We put a shit ton of hours on it. Until it grew old on us.
+The UMD it came with was the game **Lemmings**. I couldn’t remember how long my mom and I played that for. We put a shit ton of hours on it. Until it grew old on us.
 
 I remember going to a nearby store just to get “new games” on my PSP. I couldn’t actually remember if my PSP got modded or if he just dragged and dropped stuff on my SD card. But each game, music, or movie that was sideloaded on my PSP was paid for. And we didn’t have money then, so I had to carefully pick games from a random album book full of papers with printed thumbnails.
 
@@ -34,14 +34,34 @@ These stuck with me, defined me, made me who I am today because I played them as
   <p style="font-style: italic; color: #888; margin-bottom: 1em;">Favorite Games</p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-    <img src="/assets/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/Brooktownhighpsp.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
-    <img src="/assets/ys.jpg" alt="YS 7" style="width: 100px; height: 100px; object-fit: cover;">
+
+    <a href="https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature" target="_blank">
+      <img src="/assets/harvestmoon.jpg" alt="Harvest Moon" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Shrek_the_Third_(video_game)" target="_blank">
+      <img src="/assets/shrek.jpg" alt="Shrek the Third" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Brooktown_High" target="_blank">
+      <img src="/assets/Brooktownhighpsp.jpg" alt="Brooktown High PSP" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Tekken_6" target="_blank">
+      <img src="/assets/tekken7.jpg" alt="Tekken 7" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Persona_3" target="_blank">
+      <img src="/assets/persona.jpg" alt="Persona 3" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories" target="_blank">
+      <img src="/assets/gta.jpg" alt="GTA Vice City Stories" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
+
+    <a href="https://en.wikipedia.org/wiki/Ys_Seven" target="_blank">
+      <img src="/assets/ys.jpg" alt="YS 7" style="width: 100px; height: 100px; object-fit: cover;">
+    </a>
 
   </div>
 </div>
@@ -69,17 +89,17 @@ It started during the pandemic.
 
 ## <span style="color: white;">Getting Older</span>
 
-Like all gamers, we simply grew up and didn’t have time. I went to university and life got busy. I stopped playing video games… not until the pandemic.
+Like all gamers, we simply grew up and didn’t have time. I went to university and life got busy. I stopped playing video games… not until the COVID hit and I was stuck at home going through multiple episodes of anxiety and depression.
 
-I came across a PS Vita community on Reddit and was shocked they were still grinding games on remaining online servers during that time.
+Long after, I came across a PS Vita community on Reddit and was shocked they were still grinding games on remaining online servers during that time. 
 
-I was lucky to get my hands on one, and oh boy — **the customization**. The endless possibilities. I couldn’t believe that a decade-old retro handheld would ignite such a community and bring me nostalgia.
+I was lucky to get my hands on one. It was shocking, **the customization**. The endless possibilities. I couldn’t believe that a decade-old retro handheld would ignite such a community and bring me nostalgia while also being able to comfort me through a very rough time.
 
 ---
 
 ## <span style="color: white;">Gaming Experience</span>
 
-If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita — including **Vice City** — at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita. I remember making a video about it, it's linked below.
+If you mostly play triple-A titles on the highest specs, you probably won’t appreciate it a hundred percent. But it was great. No lag, responsive. At one point the homebrew community even ported GTA titles on the Vita including **San Andreas**, at the same time Nintendo released their “definitive edition” trilogy on the Switch. And it was still a hundred times better on the Vita. I remember making a video about it, it's linked below.
 
 [![My PSP/Vita gameplay](https://img.youtube.com/vi/xIDP6UuF460/hqdefault.jpg)](https://www.youtube.com/watch?v=xIDP6UuF460)
 

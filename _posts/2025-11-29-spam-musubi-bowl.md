@@ -6,11 +6,56 @@ category: recipes
 
 <div style="text-align: center; margin: 2em 0;">
   <img src="/assets/spam.jpeg" alt="Spam Musubi Bowl" style="max-width: 60%; height: auto;">
-  <p style="font-style: italic; color: #888; margin-top: 0.5em;">My gf's personal favorite</p>
+  <p style="font-style: italic; color: #888; margin-top: 0.5em;">This is my go-to when I need to make a quick lunchbox for my gf's trip to the office</p>
 </div>
 
-Serves: 3  
-Time: 15–20 mins  
+<style>
+.softbox {
+  background: #333333;
+  border-radius: 8px;
+  margin: 1em 0;
+  padding: 1em 1.5em;
+  width: fit-content;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 16px;
+}
+.softbox table {
+  border-spacing: 2em 0.1em;
+  border-collapse: separate;
+  border: none;
+}
+.softbox td {
+  color: #ffffff;
+  border: none;
+  vertical-align: top;
+}
+.softbox td:first-child {
+  font-weight: normal;
+  white-space: nowrap;
+}
+.softbox td:last-child {
+  color: #ff9933;
+}
+</style>
+
+<div class="softbox">
+<table>
+<tbody>
+<tr>
+<td>Serves:</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Time:</td>
+<td>15 mins</td>
+</tr>
+<tr>
+<td>Tags:</td>
+<td>#japanese #quick</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## <span style="color: white;">Ingredients</span>
 

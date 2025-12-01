@@ -49,4 +49,8 @@ The original Kindle Amazon UI is still available, but now you truly own your boo
 
 I use [Hardcover](https://hardcover.app) to integrate my reading progress. I find this better than Goodreads personally, though it still has room for improvement. Nonetheless, it keeps track of your books and helps your friends see what you are currently reading.
 
-The jailbreaking process has made the Kindle feel new and has ignited my passion for reading again. I have read almost 30 books before this year ends, and I am not stopping. The device itself is comfortable to hold in one of my hands. I have been using it daily, often at night, leveraging the baxklight to sneak in a few chapters before sleep. I have got more books on my device now than I will be able to read for many, many months.
+Got you. Here’s a shorter, more human version with no em dashes:
+
+⸻
+
+Jailbreaking my Kindle made it feel brand new again. It brought back my love for reading, and I have already finished almost 30 books this year. I use it every day, especially at night, enjoying the backlight while I read a few chapters before sleeping. I also have way more books on it than I can finish anytime soon, which honestly makes me happy.
