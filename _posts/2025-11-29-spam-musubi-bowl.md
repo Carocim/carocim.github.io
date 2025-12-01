@@ -9,53 +9,55 @@ category: recipes
   <p style="font-style: italic; color: #888; margin-top: 0.5em;">This is my go-to when I need to make a quick lunchbox for my gf's trip to the office</p>
 </div>
 
+<div class="softbox">
+  <table>
+    <tr>
+      <td>Serves:</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Time:</td>
+      <td>~15 mins</td>
+    </tr>
+    <tr>
+      <td>Tags:</td>
+      <td>#japanese #quick</td>
+    </tr>
+  </table>
+</div>
+
 <style>
 .softbox {
   background: #333333;
   border-radius: 8px;
   margin: 1em 0;
-  padding: 1em 1.5em;
-  width: fit-content;
+  padding: 0.8em 1em; /* slightly smaller padding */
+  display: inline-block; /* shrink to content */
   font-family: 'Noto Sans Mono', monospace;
   font-size: 16px;
 }
+
 .softbox table {
-  border-spacing: 2em 0.1em;
+  border-spacing: 1em 0.2em; /* reduce horizontal spacing */
   border-collapse: separate;
   border: none;
 }
+
 .softbox td {
   color: #ffffff;
   border: none;
   vertical-align: top;
 }
+
 .softbox td:first-child {
   font-weight: normal;
   white-space: nowrap;
 }
+
 .softbox td:last-child {
   color: #ff9933;
 }
 </style>
-
-<div class="softbox">
-<table>
-<tbody>
-<tr>
-<td>Serves:</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Time:</td>
-<td>15 mins</td>
-</tr>
-<tr>
-<td>Tags:</td>
-<td>#japanese #quick</td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ## <span style="color: white;">Ingredients</span>
 

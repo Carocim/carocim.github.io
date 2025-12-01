@@ -59,26 +59,7 @@ date: 2025-11-30 00:00:01 +0800
   color: #ff9933;
 }
 </style>
-</style>
 
-<div class="softbox">
-<table>
-<tbody>
-<tr>
-<td>Serves:</td>
-<td>~5</td>
-</tr>
-<tr>
-<td>Time:</td>
-<td>~60</td>
-</tr>
-<tr>
-<td>Tags:</td>
-<td>#filipino #pasta</td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ## <span style="color: white;">Ingredients</span>
 - 1/4 kg ground pork/beef (or more)

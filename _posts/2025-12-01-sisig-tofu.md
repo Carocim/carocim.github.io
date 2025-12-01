@@ -10,53 +10,55 @@ date: 2025-12-01 00:00:01 +0800
   <p style="font-style: italic; color: #888; margin-top: 0.5em;">My gf's personal favorite, but with more mayo</p>
 </div>
 
+<div class="softbox">
+  <table>
+    <tr>
+      <td>Serves:</td>
+      <td>~4</td>
+    </tr>
+    <tr>
+      <td>Time:</td>
+      <td>~30 mins</td>
+    </tr>
+    <tr>
+      <td>Tags:</td>
+      <td>#filipino #healthy</td>
+    </tr>
+  </table>
+</div>
+
 <style>
 .softbox {
   background: #333333;
   border-radius: 8px;
   margin: 1em 0;
-  padding: 1em 1.5em;
-  width: fit-content;
+  padding: 0.8em 1em; /* slightly smaller padding */
+  display: inline-block; /* shrink to content */
   font-family: 'Noto Sans Mono', monospace;
   font-size: 16px;
 }
+
 .softbox table {
-  border-spacing: 2em 0.1em;
+  border-spacing: 1em 0.2em; /* reduce horizontal spacing */
   border-collapse: separate;
   border: none;
 }
+
 .softbox td {
   color: #ffffff;
   border: none;
   vertical-align: top;
 }
+
 .softbox td:first-child {
   font-weight: normal;
   white-space: nowrap;
 }
+
 .softbox td:last-child {
   color: #ff9933;
 }
 </style>
-
-<div class="softbox">
-<table>
-<tbody>
-<tr>
-<td>Serves:</td>
-<td>~3</td>
-</tr>
-<tr>
-<td>Time:</td>
-<td>20 mins</td>
-</tr>
-<tr>
-<td>Tags:</td>
-<td>#filipino #healthy</td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ## Ingredients
 - 1/4 cup mayonnaise  
